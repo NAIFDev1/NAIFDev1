@@ -51,7 +51,7 @@ AI-powered resume analysis platform to help users evaluate and improve their res
 * 🌐 Arabic & English support
 * 📱 Responsive interface
 
-**Tech Stack:** `React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `PostgreSQL`
+**Tech Stack:** `React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `MySQL`
 
 ### 🌐 Personal Portfolio
 
