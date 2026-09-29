@@ -37,7 +37,7 @@ I enjoy turning ideas into functional interfaces and improving my skills through
 
 ### 🧠 Khabir — AI Resume Analyzer
 
-AI-powered resume analysis platform to help users evaluate and improve their resumes.
+An AI-powered resume analysis platform to help users evaluate and improve their resumes.
 
 **Features:**
 
@@ -46,18 +46,20 @@ AI-powered resume analysis platform to help users evaluate and improve their res
 * 🔑 Keyword analysis
 * 💼 Job matching
 * 📊 Skill gap analysis
-* 📝 Resume editor with multiple templates
+* 📝 ATS-compliant resume editor with built-in improve & translate
 * 📑 PDF reports
 * 🌐 Arabic & English support
 * 📱 Responsive interface
 
 **Tech Stack:** `React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `MySQL`
+**Live demo:** [naifdev1.github.io/resume-expert-ai](https://naifdev1.github.io/resume-expert-ai/)
 
 ### 🌐 Personal Portfolio
 
 A personal portfolio website showcasing my projects, skills, certificates, and web development work.
 
-**Tech Stack:** `HTML` `CSS` `JavaScript` `Bootstrap`
+**Tech Stack:** `React` `Tailwind CSS` `Vite`
+**Live demo:** [naifdev1.github.io/portfolio](https://naifdev1.github.io/portfolio/)
 
 ---
 
@@ -73,13 +75,15 @@ Riyadh, Saudi Arabia
 
 * SQL Fundamentals
 * Google Technical Support Fundamentals
+* Meta — Getting Started with Front-End & Web Development
+* SDAIA — AI Principles
+* SDAIA — AI Concepts & Advanced Applications
 
 ---
 
 ## 🌱 Currently Learning
 
-* React
-* Frontend Development
+* TypeScript & Full-stack Development
 * Building responsive and accessible user interfaces
 
 ---
