@@ -37,7 +37,7 @@ A graduation project that helps users review their resumes, identify areas for i
 
 **Frontend technologies:** React · TypeScript · Tailwind CSS
 
-[Explore the code ↗](https://github.com/NAIFDev1/resume-expert-ai) · [View the demo ↗](https://naifdev1.github.io/resume-expert-ai/)
+[Explore the code ↗](https://github.com/NAIFDev1/resume-expert-ai) · [View the demo ↗](https://khabir-ai.onrender.com/)
 
 ### Personal Portfolio
 
