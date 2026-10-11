@@ -8,7 +8,7 @@ Building responsive web interfaces with a focus on usability, thoughtful design,
 
 **Riyadh, Saudi Arabia**
 
-<a href="https://naifdev1.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio"></a>
+<a href="https://naif-portfolio.naifalghamdi.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio"></a>
 <a href="https://www.linkedin.com/in/naif-alghamdi-44903a434/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
 <a href="https://github.com/NAIFDev1?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories"></a>
 
@@ -22,7 +22,7 @@ I'm a Programming Technology & Web Development graduate from the College of Comm
 
 - **Frontend focus:** responsive layouts, reusable React components, and clear user interfaces.
 - **Bilingual experiences:** Arabic and English interfaces with RTL and LTR layouts.
-- **Current growth:** strengthening my TypeScript skills and expanding my full-stack development knowledge.
+- **Current growth:** strengthening my TypeScript skills and improving frontend development practices.
 
 ## Featured Projects
 
@@ -35,7 +35,7 @@ A graduation project that helps users review their resumes, identify areas for i
 - Resume editing with AI-assisted improvement and translation.
 - Arabic and English interfaces with responsive layouts.
 
-**Built with:** React · TypeScript · Tailwind CSS · Node.js · Express · MySQL
+**Frontend technologies:** React · TypeScript · Tailwind CSS
 
 [Explore the code ↗](https://github.com/NAIFDev1/resume-expert-ai) · [View the demo ↗](https://naifdev1.github.io/resume-expert-ai/)
 
@@ -45,7 +45,7 @@ A personal website bringing together my projects, technical skills, certificates
 
 **Built with:** React · Tailwind CSS · Vite
 
-[Explore the code ↗](https://github.com/NAIFDev1/portfolio) · [Visit the website ↗](https://naifdev1.github.io/portfolio/)
+[Explore the code ↗](https://github.com/NAIFDev1/portfolio) · [Visit the website ↗](https://naif-portfolio.naifalghamdi.workers.dev/)
 
 ## Technologies & Tools
 
@@ -58,13 +58,6 @@ A personal website bringing together my projects, technical skills, certificates
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Development Tools**
 
@@ -98,6 +91,6 @@ Riyadh, Saudi Arabia
 
 **Let's connect and talk about web development.**
 
-[LinkedIn](https://www.linkedin.com/in/naif-alghamdi-44903a434/) · [Portfolio](https://naifdev1.github.io/portfolio/) · [GitHub](https://github.com/NAIFDev1)
+[LinkedIn](https://www.linkedin.com/in/naif-alghamdi-44903a434/) · [Portfolio](https://naif-portfolio.naifalghamdi.workers.dev/) · [GitHub](https://github.com/NAIFDev1)
 
 </div>
