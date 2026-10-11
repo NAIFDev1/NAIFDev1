@@ -1,98 +1,103 @@
+<div align="center">
+
 # Hi, I'm Naif Alghamdi 👋
 
-### Frontend Developer | Web Development
+### Frontend Developer · Programming & Web Development Graduate
 
-I'm a Programming & Web Development graduate interested in building modern, responsive, and user-friendly web experiences.
+Building responsive web interfaces with a focus on usability, thoughtful design, and Arabic & English experiences.
 
-I enjoy turning ideas into functional interfaces and improving my skills through practical projects.
+**Riyadh, Saudi Arabia**
 
----
+<a href="https://naifdev1.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio"></a>
+<a href="https://www.linkedin.com/in/naif-alghamdi-44903a434/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+<a href="https://github.com/NAIFDev1?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories"></a>
 
-## 💻 Tech Stack
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-### Backend & Database
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+</div>
 
 ---
 
-## 📂 Projects
+## About Me
 
-### 🧠 Khabir — AI Resume Analyzer
+I'm a Programming Technology & Web Development graduate from the College of Communications and Information in Riyadh. I turn ideas into practical web applications and develop my skills through hands-on projects.
 
-An AI-powered resume analysis platform to help users evaluate and improve their resumes.
+- **Frontend focus:** responsive layouts, reusable React components, and clear user interfaces.
+- **Bilingual experiences:** Arabic and English interfaces with RTL and LTR layouts.
+- **Current growth:** strengthening my TypeScript skills and expanding my full-stack development knowledge.
 
-**Features:**
+## Featured Projects
 
-* 📄 PDF & DOCX resume upload
-* 🎯 ATS resume scoring
-* 🔑 Keyword analysis
-* 💼 Job matching
-* 📊 Skill gap analysis
-* 📝 ATS-compliant resume editor with built-in improve & translate
-* 📑 PDF reports
-* 🌐 Arabic & English support
-* 📱 Responsive interface
+### Khabir — AI Resume Analyzer
 
-**Tech Stack:** `React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `MySQL`
-**Live demo:** [naifdev1.github.io/resume-expert-ai](https://naifdev1.github.io/resume-expert-ai/)
+A graduation project that helps users review their resumes, identify areas for improvement, and prepare structured, ATS-friendly content.
 
-### 🌐 Personal Portfolio
+- Resume upload and text extraction from PDF and DOCX files.
+- ATS compatibility feedback, keyword analysis, and skills insights.
+- Resume editing with AI-assisted improvement and translation.
+- Arabic and English interfaces with responsive layouts.
 
-A personal portfolio website showcasing my projects, skills, certificates, and web development work.
+**Built with:** React · TypeScript · Tailwind CSS · Node.js · Express · MySQL
 
-**Tech Stack:** `React` `Tailwind CSS` `Vite`
-**Live demo:** [naifdev1.github.io/portfolio](https://naifdev1.github.io/portfolio/)
+[Explore the code ↗](https://github.com/NAIFDev1/resume-expert-ai) · [View the demo ↗](https://naifdev1.github.io/resume-expert-ai/)
 
----
+### Personal Portfolio
 
-## 🎓 Education
+A personal website bringing together my projects, technical skills, certificates, and web development work.
 
-**Programming Technology & Web Development**
-College of Communications and Information — TVTC
+**Built with:** React · Tailwind CSS · Vite
+
+[Explore the code ↗](https://github.com/NAIFDev1/portfolio) · [Visit the website ↗](https://naifdev1.github.io/portfolio/)
+
+## Technologies & Tools
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Development Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logoColor=white)
+
+## Education
+
+**Programming Technology & Web Development**  
+College of Communications and Information — TVTC  
 Riyadh, Saudi Arabia
 
----
+<details>
+<summary><strong>Certificates & Courses</strong></summary>
 
-## 📜 Certifications
+<br>
 
-* SQL Fundamentals
-* Google Technical Support Fundamentals
-* Meta — Getting Started with Front-End & Web Development
-* SDAIA — AI Principles
-* SDAIA — AI Concepts & Advanced Applications
+- SQL Fundamentals
+- Google — Technical Support Fundamentals
+- Meta — Getting Started with Front-End & Web Development
+- SDAIA — AI Principles
+- SDAIA — AI Concepts & Advanced Applications
 
----
-
-## 🌱 Currently Learning
-
-* TypeScript & Full-stack Development
-* Building responsive and accessible user interfaces
+</details>
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naif-alghamdi-44903a434/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NAIFDev1)
+**Let's connect and talk about web development.**
 
----
+[LinkedIn](https://www.linkedin.com/in/naif-alghamdi-44903a434/) · [Portfolio](https://naifdev1.github.io/portfolio/) · [GitHub](https://github.com/NAIFDev1)
 
-⭐ Thanks for visiting my profile!
+</div>
